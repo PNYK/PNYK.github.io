@@ -1,0 +1,53 @@
+header {
+	text-align: center;
+	font-size: 3em;
+}
+
+h1 {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+nav {
+	font-size: 25px;
+}
+
+nav ul li{
+	list-style: none;
+
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+section {
+	text-align: center;
+}
+footer {
+	text-align: center;
+}
+footer img {
+	margin-top: 10px;
+	height: 70px;
+}
+
+.selected {
+color: #F78181; 
+}
+
+.selected:hover {
+	color: #FFCFF5;
+}
+
+nav a {
+ text-decoration: none;
+
+}
+
+body {
+	background-color: #fff;
+	color: #8C92AC;
+}
