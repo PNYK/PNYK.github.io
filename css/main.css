@@ -11,6 +11,10 @@ h1 {
 
 }
 
+body {
+	background-image: img src="img/swril_pattern.png";
+}
+
 
 nav {
 	margin-top:-80px;
@@ -46,6 +50,8 @@ color: #F78181;
 .selected:hover {
 	color: #FFCFF5;
 }
+
+
 
 nav a {
  text-decoration: none;
