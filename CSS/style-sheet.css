@@ -1,7 +1,7 @@
 section {
 	margin: 20px 0;
 }
-
+ 
 .color-1,
 .color-2,
 .color-3,
@@ -17,14 +17,14 @@ section {
 	height: 50px;
 	width: 50px;
 }
-
+ 
 /* Set Your Own Typography */
-
-
+ 
+ 
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
 }
-
+ 
 /* Clearfix - Oo Not Remove */
 .clearfix {clear:both;display:block;overflow:hidden;visibility:hidden;width:0;height:0}
