@@ -4,9 +4,9 @@ h1 {
 	margin: 0px;
 	padding: 0px;
 	font-family: 'Indie Flower', sans-serif;
-	font-size: 8em;
 	text-align: center;
-	color: #8C92AC;
+	color: #F78181;
+	font-size: 5em !important;
 }
 
 body {
@@ -14,7 +14,7 @@ font-family: 'Indie Flower', sans-serif;
 
 }
 
-P {
+p {
 text-align: center;
 font-size: 1.5em;
 }
@@ -27,8 +27,47 @@ color: #F78181;
 
 }
 
-ul li {
+div {
+	position: relative;
+	display: block;
+	padding-top:200px;
+	padding-bottom: 200px;
 	text-align: center;
 	list-style: none;
 	font-size: 1.5em;
 }
+
+
+table {
+	width:100%;
+}
+
+td {
+	text-align: center;
+	font-size: 6em;
+}
+
+
+
+.EMT {
+	background: url(http://yaleherald.com/wp-content/uploads/2013/04/EMT.jpg) no-repeat center;
+	background-size: 100%;
+	font-size: 3em;
+	color: white;
+	text-indent: -215px;
+}
+
+.CPR {
+	background: url(http://crossfitacadia.com/wp-content/uploads/2014/07/cpr-heartsaver-300x165.gif) no-repeat center;
+    background-size: 40%;
+}
+
+.PT {
+	background: url(http://files.abstractsonline.com/SUPT/57/2471/ACSM%20Leading%20Logo287-354.jpg) no-repeat center;
+    background-size: 100%;
+	font-size: 3em;
+	padding-top:50px;
+	padding-bottom: 350px;
+}
+
+
